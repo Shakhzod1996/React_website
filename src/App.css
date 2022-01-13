@@ -1,0 +1,20 @@
+.nav {
+  height: 10vh;
+}
+.d-block {
+  height: calc(100vh - 10vh);
+  object-fit: cover;
+}
+
+.par {
+  margin-top: 20px;
+}
+
+.photo {
+  width: 650px;
+  height: 400px;
+}
+
+.link {
+  cursor: pointer;
+}
